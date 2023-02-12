@@ -1,0 +1,12 @@
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.deps.json
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.dll
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.pdb
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.csproj.AssemblyReference.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.AssemblyInfoInputs.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.AssemblyInfo.cs
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.dll
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/refint/SuggestionAppLibrary.dll
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.pdb
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/ref/SuggestionAppLibrary.dll
