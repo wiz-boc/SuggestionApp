@@ -1,5 +1,5 @@
 ﻿using System;
-namespace SuggestionAppUI.Models;
+namespace SuggestionAppLibrary.Models;
 
 public class SuggestionModel
 {

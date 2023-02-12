@@ -5,12 +5,36 @@
       "PackagePath": "staticwebassets/SuggestionAppUI.bundle.scp.css"
     },
     {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/.site 2.css.icloud",
+      "PackagePath": "staticwebassets/css/.site 2.css.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/bootstrap/.bootstrap.min 2.css.icloud",
+      "PackagePath": "staticwebassets/css/bootstrap/.bootstrap.min 2.css.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/bootstrap/.bootstrap.min.css 2.map.icloud",
+      "PackagePath": "staticwebassets/css/bootstrap/.bootstrap.min.css 2.map.icloud"
+    },
+    {
       "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
       "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/.FONT-LICENSE 2.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/.FONT-LICENSE 2.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/.ICON-LICENSE 2.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/.ICON-LICENSE 2.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/.README 2.md.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/.README 2.md.icloud"
     },
     {
       "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/FONT-LICENSE",
@@ -25,8 +49,32 @@
       "PackagePath": "staticwebassets/css/open-iconic/README.md"
     },
     {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/css/.open-iconic-bootstrap.min 2.css.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/.open-iconic-bootstrap.min 2.css.icloud"
+    },
+    {
       "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/fonts/.open-iconic 2.eot.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/.open-iconic 2.eot.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/fonts/.open-iconic 2.otf.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/.open-iconic 2.otf.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/fonts/.open-iconic 2.svg.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/.open-iconic 2.svg.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/fonts/.open-iconic 2.ttf.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/.open-iconic 2.ttf.icloud"
+    },
+    {
+      "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/fonts/.open-iconic 2.woff.icloud",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/.open-iconic 2.woff.icloud"
     },
     {
       "Id": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
