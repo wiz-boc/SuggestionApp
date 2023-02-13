@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+
 namespace SuggestionAppUI;
 
 public static class RegisterServices
