@@ -1,17 +1,30 @@
 ﻿<Properties StartupConfiguration="{7D50F85E-D40B-4E6F-806C-7B0D9EA61FDB}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppLibrary/DataAccess/DbConnection.cs">
+    <Files>
+      <File FileName="SuggestionAppUI/appsettings.json" Line="9" Column="16" />
+      <File FileName="../../../../../../../../.microsoft/usersecrets/8d73d135-cace-430e-a37c-6c2f508dc0a7/secrets.json" Line="3" Column="21" />
+      <File FileName="SuggestionAppLibrary/DataAccess/DbConnection.cs" Line="35" Column="93" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SuggestionApp" expanded="True" selected="True" />
+          <Node name="SuggestionApp" expanded="True">
+            <Node name="SuggestionAppLibrary" expanded="True">
+              <Node name="DataAccess" expanded="True">
+                <Node name="DbConnection.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="SuggestionAppUI" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
