@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N9+uCQDnhOIu0ANV2LesZ115zpHiimRDgq4A3OAt0nr1k2249VeOshZI1MwIonCNC1WqwKD/vNacq4Ed4hU4vg==",
+  "dgSpecHash": "OIz85vvWoUH58znwvxVLmL88Xo+f9MlgY5lChirjwvL/jauYGt6bjC/flZ4kmJjiQHWtmvaVQjQxKgMIAEX00Q==",
   "success": true,
   "projectFilePath": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppLibrary/SuggestionAppLibrary.csproj",
   "expectedPackageFiles": [
@@ -26,9 +26,7 @@
     "/Users/wizz/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/wizz/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
     "/Users/wizz/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/zstdsharp.port/0.6.2/zstdsharp.port.0.6.2.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+    "/Users/wizz/.nuget/packages/zstdsharp.port/0.6.2/zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
 }

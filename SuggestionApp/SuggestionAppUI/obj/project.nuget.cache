@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BL6knx+gxIjOS6bQyyjFUo1j+qs01wxiwJculI+3F9iJAuoD+2Ur8vQDRw1aQj/yN65n1EAkCd5yBMY6gPMPEA==",
+  "dgSpecHash": "RsqN2wplWFisjWu+w00hk1e4Nt0UzNuwQsMnluFwKrzlvxwOU7ZugFnv0m0KKeEVerB8Sk/ONyLUtVJiQlX6LQ==",
   "success": true,
   "projectFilePath": "/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/SuggestionAppUI.csproj",
   "expectedPackageFiles": [
@@ -72,10 +72,7 @@
     "/Users/wizz/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/wizz/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
     "/Users/wizz/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/zstdsharp.port/0.6.2/zstdsharp.port.0.6.2.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512",
-    "/Users/wizz/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+    "/Users/wizz/.nuget/packages/zstdsharp.port/0.6.2/zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
 }
