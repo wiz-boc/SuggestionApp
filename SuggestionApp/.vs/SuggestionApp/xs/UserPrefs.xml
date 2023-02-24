@@ -1,31 +1,31 @@
 ﻿<Properties StartupConfiguration="{7D50F85E-D40B-4E6F-806C-7B0D9EA61FDB}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppLibrary/DataAccess/DbConnection.cs">
+  <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppUI/Shared/NotAuthorized.razor">
     <Files>
       <File FileName="SuggestionAppUI/appsettings.json" />
       <File FileName="../../../../../../../../.microsoft/usersecrets/8d73d135-cace-430e-a37c-6c2f508dc0a7/secrets.json" />
       <File FileName="SuggestionAppLibrary/DataAccess/DbConnection.cs" Line="30" Column="42" />
+      <File FileName="SuggestionAppUI/Pages/AdminApproval.razor" Line="28" Column="70" />
+      <File FileName="SuggestionAppUI/Pages/Profile.razor" Line="135" Column="5" />
+      <File FileName="SuggestionAppUI/Shared/NotAuthorized.razor" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SuggestionApp" expanded="True">
-            <Node name="SuggestionAppLibrary" expanded="True">
-              <Node name="DataAccess" expanded="True">
-                <Node name="DbConnection.cs" selected="True" />
-              </Node>
-              <Node name="Models" expanded="True" />
+            <Node name="SuggestionAppUI" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True" />
             </Node>
-            <Node name="SuggestionAppUI" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
