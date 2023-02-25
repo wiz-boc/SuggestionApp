@@ -14,11 +14,13 @@
   <ItemGroup>
     <None Remove="Components\" />
     <None Remove="Models\" />
+    <None Remove="Helpers\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Components\" />
     <Folder Include="Models\" />
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Helpers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\images\" />
