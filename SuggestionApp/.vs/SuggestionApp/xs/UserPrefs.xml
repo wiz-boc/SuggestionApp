@@ -1,34 +1,30 @@
 ﻿<Properties StartupConfiguration="{7D50F85E-D40B-4E6F-806C-7B0D9EA61FDB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppUI/Pages/Details.razor">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../../../usr/local/share/dotnet/sdk/7.0.200/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
     <Files>
-      <File FileName="SuggestionAppUI/wwwroot/css/site.css" Line="623" Column="22" />
-      <File FileName="SuggestionAppUI/Pages/Index.razor" Line="53" Column="29" />
-      <File FileName="SuggestionAppUI/Pages/Details.razor" Line="97" Column="30" />
+      <File FileName="SuggestionAppUI/Pages/Index.razor" Line="136" Column="1" />
+      <File FileName="SuggestionAppUI/SuggestionAppUI.csproj" Line="4" Column="26" />
+      <File FileName="SuggestionAppLibrary/SuggestionAppLibrary.csproj" Line="4" Column="26" />
+      <File FileName="../../../../../../../../../../usr/local/share/dotnet/sdk/7.0.200/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="42" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SuggestionApp" expanded="True">
+            <Node name="SuggestionAppLibrary" selected="True" />
             <Node name="SuggestionAppUI" expanded="True">
               <Node name="Helpers" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Details.razor" selected="True" />
-              </Node>
+              <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="images" expanded="True" />
-              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/Pages/AdminApproval.razor" relfile="SuggestionAppUI/Pages/AdminApproval.razor" line="109" column="1" />
