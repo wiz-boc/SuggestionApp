@@ -1,13 +1,9 @@
 ﻿<Properties StartupConfiguration="{7D50F85E-D40B-4E6F-806C-7B0D9EA61FDB}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppUI/Pages/Details.razor">
     <Files>
-      <File FileName="SuggestionAppUI/wwwroot/css/site.css" Line="494" Column="38" />
-      <File FileName="SuggestionAppUI/Pages/Details.razor" Line="30" Column="27" />
-      <File FileName="SuggestionAppUI/Pages/Index.razor" Line="34" Column="70" />
+      <File FileName="SuggestionAppUI/wwwroot/css/site.css" Line="623" Column="22" />
+      <File FileName="SuggestionAppUI/Pages/Index.razor" Line="53" Column="29" />
+      <File FileName="SuggestionAppUI/Pages/Details.razor" Line="97" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,7 +25,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DotNet/TimCorey/SuggestionSiteCourse/SuggestionApp/SuggestionAppUI/Pages/AdminApproval.razor" relfile="SuggestionAppUI/Pages/AdminApproval.razor" line="109" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
