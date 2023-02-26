@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{7D50F85E-D40B-4E6F-806C-7B0D9EA61FDB}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppUI/wwwroot/css/site.css">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuggestionAppUI/Pages/Details.razor">
     <Files>
-      <File FileName="SuggestionAppUI/Pages/Index.razor" Line="329" Column="19" />
-      <File FileName="SuggestionAppUI/wwwroot/css/site.css" Line="283" Column="31" />
+      <File FileName="SuggestionAppUI/wwwroot/css/site.css" Line="494" Column="38" />
+      <File FileName="SuggestionAppUI/Pages/Details.razor" Line="30" Column="27" />
+      <File FileName="SuggestionAppUI/Pages/Index.razor" Line="34" Column="70" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,12 +15,12 @@
           <Node name="SuggestionApp" expanded="True">
             <Node name="SuggestionAppUI" expanded="True">
               <Node name="Helpers" expanded="True" />
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Details.razor" selected="True" />
+              </Node>
               <Node name="Shared" expanded="True" />
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="site.css" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
                 <Node name="images" expanded="True" />
               </Node>
             </Node>
@@ -31,4 +29,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
